@@ -1,1 +1,1 @@
-#include "vix/ai/distributed/SyncManager.hpp"
+#include <vix/ai/distributed/SyncManager.hpp>
